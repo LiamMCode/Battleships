@@ -1,0 +1,1 @@
+Tried to code the AI and could get it to work properly it worked but kept infinate looping and overwriting the saved x and y from the last shot hit ill include the code as AIattempt
